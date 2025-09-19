@@ -209,7 +209,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 16, backgroundColor: '#f7f7f7' },
-  title: { fontSize: 20, fontWeight: '600', marginBottom: 12, textAlign: 'center' },
+  title: { fontSize: 20, fontWeight: '600', marginBottom: 12, textAlign: 'center', marginTop: 40 },
   form: {
     backgroundColor: 'white',
     borderRadius: 12,
